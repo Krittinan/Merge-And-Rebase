@@ -1,0 +1,15 @@
+.text-header {
+    color: red;
+    font-size: 30px;
+}
+
+.text-description {
+    color: green;
+    font-size: 20px;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+}
