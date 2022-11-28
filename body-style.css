@@ -7,3 +7,9 @@
     color: green;
     font-size: 20px;
 }
+
+.image {
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+}
