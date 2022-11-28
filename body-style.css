@@ -29,3 +29,7 @@ body {
     margin-top: 10px;
     background-color: darkgrey;
 }
+
+.test {
+    width: 5px
+}
